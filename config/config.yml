@@ -1,0 +1,4 @@
+---
+switches: "%w[--disable-background-networking]"
+driver: 'watir'
+browser: 'firefox'
